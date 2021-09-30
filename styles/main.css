@@ -1,0 +1,37 @@
+
+
+* {
+    border: 1px dotted fuchsia;} 
+
+  /* body { 
+      background-image: url("https://i.giphy.com/media/ZTAojHK9IHsSQ/giphy.webp");
+      background-size: cover;
+  } */
+
+h1 {
+    text-align: center;
+}
+    .fish {
+        display: flex;
+    }
+
+    .fish__info {
+        flex: 2;
+    }
+
+    .tank {
+        flex: 2;
+        
+    }
+
+    .header {
+        text-align: center;
+    }
+
+    .fish__owned {
+        text-align: center;
+    }
+
+    .locations{
+        text-align: center;
+    }
